@@ -9,3 +9,6 @@ Make deliberate connections to classmates, get to know them.
 #Shoutouts
 Staff - Nikki and Cydnee for awesome instruction / Chelsea for getting me into 2201 BEE from the waitlist
 Students - Bryce and Alex have been great collaborators and I look forward to working with them more
+
+#A new thought
+Lots of new git commands today
